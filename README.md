@@ -1,4 +1,23 @@
-# Exploratory Testing
+# The Guide to Exploratory Testing
+
+According to Cem Kaner, Exploratory Testing is:
+
+- An **approach** to software testing
+- Emphasizes the personal **freedom** and **responsibility** of the individual tester
+- Continually **opitmizes** the **value** of her work
+- Treats test-related learning, test design, test execution and test result interpretation as **mutually supportive** activities that **run in parallel**
+
+Scripted Testing is limited
+
+- Testers or Machines follow a set of procedures
+- Comparing the observed behavior with whatever results the designer considered relevant
+- Creates inattitional blindness
+
+Exploratory Testing is easy
+
+By default people approach testing in an exploratory way. Developers spend most of their time exploring, so do testers, product managers and even executives. 
+
+----
 
 Over 30 years ago, Cem Kaner coined the phrase “exploratory testing.” He was the first public advocate of it.
 
