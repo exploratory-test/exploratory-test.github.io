@@ -1,23 +1,41 @@
 # The Guide to Exploratory Testing
 
-According to Cem Kaner, Exploratory Testing is:
+## Exploratory Testing is:
 
 - An **approach** to software testing
 - Emphasizes the personal **freedom** and **responsibility** of the individual tester
 - Continually **opitmizes** the **value** of her work
 - Treats test-related learning, test design, test execution and test result interpretation as **mutually supportive** activities that **run in parallel**
 
-Scripted Testing is limited
+## Scripted Testing is limited:
 
 - Testers or Machines follow a set of procedures
 - Comparing the observed behavior with whatever results the designer considered relevant
 - Creates inattitional blindness
 
-Exploratory Testing is easy
+## Exploratory Testing is easy:
 
 By default people approach testing in an exploratory way. Developers spend most of their time exploring, so do testers, product managers and even executives. 
 
-----
+## Exploratory Testing focuses on value:
+
+
+
+--- 
+
+Things to add:
+
+- [ ] The goal is to create a single page (although we can link to references) with information about what is and isn't exploratory testing
+- [ ] Will need to add images and diagrams to help
+- [ ] Add the definition somewhere
+- [ ] Whole page should be centered
+- [ ] Should be written as a story with examples
+- [ ] 
+
+
+---
+
+Other content:
 
 Over 30 years ago, Cem Kaner coined the phrase “exploratory testing.” He was the first public advocate of it.
 
@@ -30,14 +48,3 @@ The antithesis of exploration is scripted testing, in which the tester (or a mac
 
 What is the definition?
 Ultimately Exploratory Testing is a style (approach) of software testing that emphasizes the personal freedom and responsibility of the individual tester to continually optimize the value of her work by treating test-related learning, test design, test execution and test result interpretation as mutually supportive activities that run in parallel throughout the project. (Kaner)
-
-
-
---- Things to add:
-
-1. The goal is to create a single page (although we can link to references) with information about what is and isn't exploratory testing
-2. Will need to add images and diagrams to help
-3. This page needs to tell a story
-
-
----
