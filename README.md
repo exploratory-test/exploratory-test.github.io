@@ -30,7 +30,7 @@ Things to add:
 - [ ] Add the definition somewhere
 - [ ] Whole page should be centered
 - [ ] Should be written as a story with examples
-- [ ] 
+- [ ] What else?
 
 
 ---
